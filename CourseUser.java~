@@ -1,0 +1,14 @@
+/*
+ * Project: CourseUser.java
+ * Description: A Course constructor
+ * Name: Hanmin Yun
+ * Date: Sept 30, 2015
+ */
+
+public class CourseUser {
+  
+  public static void main( String[] args) {
+    
+  } // end main method
+  
+} // end class
